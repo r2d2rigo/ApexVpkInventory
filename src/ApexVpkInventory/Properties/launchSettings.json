@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ApexVpkInventory": {
+      "commandName": "Project",
+      "commandLineArgs": "--path \"D:\\Steam\\steamapps\\common\\Apex Legends\""
+    }
+  }
+}
